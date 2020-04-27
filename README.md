@@ -1,4 +1,4 @@
-<img alt="Git Explorer" src="./src/assets/git-explorer.gif" />
+<img alt="Git Explorer" src="./src/assets/git-explorer.gif" width="400px"/>
 
 <h3 align="center" >
   An application to save repositories and check these statistics
